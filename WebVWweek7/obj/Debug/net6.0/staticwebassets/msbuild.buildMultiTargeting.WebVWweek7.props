@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebVWweek7.props" />
+</Project>
