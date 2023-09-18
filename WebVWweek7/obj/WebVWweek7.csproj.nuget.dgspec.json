@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Heijen\\source\\repos\\WebVWweek7\\WebVWweek7\\WebVWweek7.csproj": {}
+    "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\WebVWweek7.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Heijen\\source\\repos\\WebVWweek7\\WebVWweek7\\WebVWweek7.csproj": {
+    "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\WebVWweek7.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Heijen\\source\\repos\\WebVWweek7\\WebVWweek7\\WebVWweek7.csproj",
+        "projectUniqueName": "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\WebVWweek7.csproj",
         "projectName": "WebVWweek7",
-        "projectPath": "C:\\Users\\Heijen\\source\\repos\\WebVWweek7\\WebVWweek7\\WebVWweek7.csproj",
+        "projectPath": "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\WebVWweek7.csproj",
         "packagesPath": "C:\\Users\\Heijen\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Heijen\\source\\repos\\WebVWweek7\\WebVWweek7\\obj\\",
+        "outputPath": "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

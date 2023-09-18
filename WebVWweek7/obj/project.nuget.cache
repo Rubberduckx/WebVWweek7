@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BE+xpzqJGQlSjhFr/BzpsP8d0W9J1HSC/tP+DBMtGFxgNmYDhABI+BNxOLcFKBl3dh6Ts5j4Wjm117zHNQhR8A==",
+  "dgSpecHash": "Hjke1487WPzPITaHt85+kMnaXad5226ZjMjdtr1GyVhRMS4c3fBDHXcURAgTpxR+ptUpo5OKmxjchwRiBfaPKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Heijen\\source\\repos\\WebVWweek7\\WebVWweek7\\WebVWweek7.csproj",
+  "projectFilePath": "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\WebVWweek7.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Heijen\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Heijen\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
