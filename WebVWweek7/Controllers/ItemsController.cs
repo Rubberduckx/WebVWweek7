@@ -20,10 +20,21 @@ namespace WebVWweek7.Controllers
         }
 
         // GET: Items
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int? CollectionId)
         {
-            var appDbContext = _context.items.Include(i => i.Collection);
-            return View(await appDbContext.ToListAsync());
+            if (CollectionId != null)
+            {
+                var AppDbContext = _context.items
+                    .Include(v => v.Collection)
+                    .Where(o => o.CollectionId == CollectionId);
+
+                return View(await AppDbContext.ToListAsync());
+            }
+            else
+            {
+                var appDbContext = _context.items.Include(c => c.Collection);
+                return View(await appDbContext.ToListAsync());
+            }
         }
 
         // GET: Items/Details/5
