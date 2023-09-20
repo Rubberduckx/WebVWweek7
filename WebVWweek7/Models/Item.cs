@@ -10,5 +10,7 @@
         public DateTime BuyDate { get; set; }
         public int CollectionId { get; set; }
         public Collection Collection { get; set; }
+
+        public int Difference => Price - Worth;
     }
 }
