@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JJI/xuEQmZoe85kze7xrtzbTAabhmNHMxVe0cGvYnGo=",
+  "Hash": "sosNs6Q9n47id3HZ+ggfrvlr9bs4bgrW9DiM96BLY7U=",
   "Source": "WebVWweek7",
   "BasePath": "_content/WebVWweek7",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\User\\Desktop\\Github path\\WebVWweek7\\WebVWweek7\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebVWweek7.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\User\\Desktop\\Github path\\WebVWweek7\\WebVWweek7\\wwwroot\\css\\bootstrapTheme.css",
+      "SourceId": "WebVWweek7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\User\\Desktop\\Github path\\WebVWweek7\\WebVWweek7\\wwwroot\\",
+      "BasePath": "_content/WebVWweek7",
+      "RelativePath": "css/bootstrapTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrapTheme.css"
     },
     {
       "Identity": "C:\\Users\\User\\Desktop\\Github path\\WebVWweek7\\WebVWweek7\\wwwroot\\css\\site.css",
