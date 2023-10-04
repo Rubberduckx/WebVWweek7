@@ -880,3 +880,8 @@ C:\Users\User\Desktop\Github path\WebVWweek7\WebVWweek7\obj\Debug\net6.0\refint\
 C:\Users\User\Desktop\Github path\WebVWweek7\WebVWweek7\obj\Debug\net6.0\WebVWweek7.pdb
 C:\Users\User\Desktop\Github path\WebVWweek7\WebVWweek7\obj\Debug\net6.0\WebVWweek7.genruntimeconfig.cache
 C:\Users\User\Desktop\Github path\WebVWweek7\WebVWweek7\obj\Debug\net6.0\ref\WebVWweek7.dll
+C:\Users\User\Desktop\Github path\WebVWweek7\WebVWweek7\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Desktop\Github path\WebVWweek7\WebVWweek7\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Desktop\Github path\WebVWweek7\WebVWweek7\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Desktop\Github path\WebVWweek7\WebVWweek7\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Desktop\Github path\WebVWweek7\WebVWweek7\obj\Debug\net6.0\WebVWweek7.MvcApplicationPartsAssemblyInfo.cs
