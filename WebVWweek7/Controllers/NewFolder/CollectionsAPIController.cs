@@ -29,9 +29,9 @@ namespace WebVWweek7.Controllers.NewFolder
           {
               return NotFound();
           }
-            return await _context.collections.Include(o => o.Category).ToListAsync();
+            return await _context.collections./*Include(o => o.Category)*/ToListAsync();
         }
-
+         
         // GET: api/CollectionsAPI/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Collection>> GetCollection(int id)
