@@ -22,7 +22,8 @@ namespace WebVWweek7.Controllers
         // GET: Categories
         public async Task<IActionResult> Index()
         {
-              return _context.categories != null ? 
+            Counter();
+            return _context.categories != null ? 
                           View(await _context.categories.ToListAsync()) :
                           Problem("Entity set 'AppDbContext.categories'  is null.");
         }
@@ -162,6 +163,11 @@ namespace WebVWweek7.Controllers
         private bool CategoryExists(int id)
         {
           return (_context.categories?.Any(e => e.Id == id)).GetValueOrDefault();
+        }
+
+        public void Counter()
+        {
+            ViewBag.Count = _context.categories.Count();
         }
     }
 }

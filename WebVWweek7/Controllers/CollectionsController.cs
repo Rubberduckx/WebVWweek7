@@ -179,5 +179,10 @@ namespace WebVWweek7.Controllers
         {
           return (_context.collections?.Any(e => e.Id == id)).GetValueOrDefault();
         }
+
+        public void Counter()
+        {
+            
+        }
     }
 }

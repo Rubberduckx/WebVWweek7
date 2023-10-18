@@ -9,97 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebVWweek7
 build_property.RootNamespace = WebVWweek7
-build_property.ProjectDir = C:\Users\User\Desktop\Github path\WebVWweek7\WebVWweek7\
+build_property.ProjectDir = C:\Users\Heijen\Desktop\Github\WebVWweek7\WebVWweek7\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\Desktop\Github path\WebVWweek7\WebVWweek7
+build_property.MSBuildProjectDirectory = C:\Users\Heijen\Desktop\Github\WebVWweek7\WebVWweek7
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Categories/Create.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Categories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Categories/Delete.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Categories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Categories/Details.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Categories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Categories/Edit.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Categories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Categories/Index.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Categories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Collections/Create.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Collections/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Collections/Delete.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Collections/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Collections/Details.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Collections/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Collections/Edit.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Collections/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Collections/Index.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Collections/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29sbGVjdGlvbnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Home/Index.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Home/Privacy.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Items/Create.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Items/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Items/Delete.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Items/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Items/Details.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Items/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Items/Edit.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Items/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Items/Index.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Items/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Shared/Error.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/_ViewImports.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/_ViewStart.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/Desktop/Github path/WebVWweek7/WebVWweek7/Views/Shared/_Layout.cshtml]
+[C:/Users/Heijen/Desktop/Github/WebVWweek7/WebVWweek7/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-2guc0lmz5g
