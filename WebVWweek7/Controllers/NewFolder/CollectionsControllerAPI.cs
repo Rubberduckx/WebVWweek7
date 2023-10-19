@@ -12,16 +12,16 @@ namespace WebVWweek7.Controllers.NewFolder
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CollectionsAPIController : ControllerBase
+    public class CollectionsControllerAPI : ControllerBase
     {
         private readonly AppDbContext _context;
 
-        public CollectionsAPIController(AppDbContext context)
+        public CollectionsControllerAPI(AppDbContext context)
         {
             _context = context;
         }
 
-        // GET: api/CollectionsAPI
+        // GET: api/CollectionsControllerAPI
         [HttpGet]
         public async Task<ActionResult<IEnumerable<Collection>>> Getcollections()
         {
@@ -29,10 +29,10 @@ namespace WebVWweek7.Controllers.NewFolder
           {
               return NotFound();
           }
-            return await _context.collections./*Include(o => o.Category)*/ToListAsync();
+            return await _context.collections.ToListAsync();
         }
-         
-        // GET: api/CollectionsAPI/5
+
+        // GET: api/CollectionsControllerAPI/5
         [HttpGet("{id}")]
         public async Task<ActionResult<Collection>> GetCollection(int id)
         {
@@ -50,7 +50,7 @@ namespace WebVWweek7.Controllers.NewFolder
             return collection;
         }
 
-        // PUT: api/CollectionsAPI/5
+        // PUT: api/CollectionsControllerAPI/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPut("{id}")]
         public async Task<IActionResult> PutCollection(int id, Collection collection)
@@ -81,7 +81,7 @@ namespace WebVWweek7.Controllers.NewFolder
             return NoContent();
         }
 
-        // POST: api/CollectionsAPI
+        // POST: api/CollectionsControllerAPI
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
         public async Task<ActionResult<Collection>> PostCollection(Collection collection)
@@ -96,7 +96,7 @@ namespace WebVWweek7.Controllers.NewFolder
             return CreatedAtAction("GetCollection", new { id = collection.Id }, collection);
         }
 
-        // DELETE: api/CollectionsAPI/5
+        // DELETE: api/CollectionsControllerAPI/5
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteCollection(int id)
         {

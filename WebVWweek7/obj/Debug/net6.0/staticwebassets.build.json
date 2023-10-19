@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "cw/+PLRolr5Bm5cjrDvo5DIVOjWnZs2T6VYdp7/hBZg=",
+  "Hash": "tupF1VhmkW7xS/UJUUEiMGOZLWI1FDo44Uhd38Ev8iU=",
   "Source": "WebVWweek7",
   "BasePath": "_content/WebVWweek7",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebVWweek7.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\wwwroot\\css\\Image\\1314645.jpg",
+      "SourceId": "WebVWweek7",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\wwwroot\\",
+      "BasePath": "_content/WebVWweek7",
+      "RelativePath": "css/Image/1314645.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Image\\1314645.jpg"
     },
     {
       "Identity": "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\wwwroot\\css\\site.css",
