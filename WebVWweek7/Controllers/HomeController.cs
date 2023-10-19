@@ -18,6 +18,11 @@ namespace WebVWweek7.Controllers
             return View();
         }
 
+        public IActionResult Main()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

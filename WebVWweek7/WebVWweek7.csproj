@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <None Include="wwwroot\css\Image\1314645.jpg" />
-    <None Include="wwwroot\css\StyleSheet.css" />
   </ItemGroup>
 
   <ItemGroup>

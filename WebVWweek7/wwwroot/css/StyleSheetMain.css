@@ -13960,3 +13960,32 @@ thead th {
 .modal-content {
     box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
 }
+
+.Welcome {
+    font-size: 50px;
+    color: dodgerblue;
+    border-block: white groove;
+    background-color: white;
+}
+
+.animate-charcter {
+    text-transform: uppercase;
+    background-image: linear-gradient( -225deg, #231557 0%, #44107a 29%, #ff1361 67%, #fff800 100% );
+    background-size: auto auto;
+    background-clip: border-box;
+    background-size: 150% auto;
+    color: #fff;
+    background-clip: text;
+    text-fill-color: white;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 3s linear infinite;
+    display: inline-block;
+    font-size: 150px;
+}
+
+@keyframes textclip {
+    to {
+        background-position: 300% center;
+    }
+}

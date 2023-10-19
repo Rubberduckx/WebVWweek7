@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "tupF1VhmkW7xS/UJUUEiMGOZLWI1FDo44Uhd38Ev8iU=",
+  "Hash": "+jlIUmOjEsRaqshDxh7EK8l5H+VJSXr97R6XD/Dl5vk=",
   "Source": "WebVWweek7",
   "BasePath": "_content/WebVWweek7",
   "Mode": "Default",
@@ -83,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\wwwroot\\css\\StyleSheet.css",
-      "SourceId": "WebVWweek7",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\wwwroot\\",
-      "BasePath": "_content/WebVWweek7",
-      "RelativePath": "css/StyleSheet.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
     },
     {
       "Identity": "C:\\Users\\Heijen\\Desktop\\Github\\WebVWweek7\\WebVWweek7\\wwwroot\\css\\StyleSheetMain.css",
