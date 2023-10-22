@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebVWweek7", "WebVWweek7\WebVWweek7.csproj", "{1F415CF6-D6D0-4C41-9DFC-F22ADE399CC0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationCatAPI", "WebApplicationCatAPI\WebApplicationCatAPI.csproj", "{0A90644D-387B-4C5C-A802-41456FC6A463}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1F415CF6-D6D0-4C41-9DFC-F22ADE399CC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F415CF6-D6D0-4C41-9DFC-F22ADE399CC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F415CF6-D6D0-4C41-9DFC-F22ADE399CC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A90644D-387B-4C5C-A802-41456FC6A463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A90644D-387B-4C5C-A802-41456FC6A463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A90644D-387B-4C5C-A802-41456FC6A463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A90644D-387B-4C5C-A802-41456FC6A463}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
