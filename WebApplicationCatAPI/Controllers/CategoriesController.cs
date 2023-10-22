@@ -22,7 +22,7 @@ namespace WebApplicationCatAPI.Controllers
         }
 
         // GET: api/Categories
-        [HttpGet]
+        [HttpGet("Finds Category by status.")]
         public async Task<ActionResult<IEnumerable<Category>>> Getcategories()
         {
           if (_context.categories == null)
@@ -33,7 +33,7 @@ namespace WebApplicationCatAPI.Controllers
         }
 
         // GET: api/Categories/5
-        [HttpGet("{id}")]
+        [HttpGet("{id} Finds Category by Id.")]
         public async Task<ActionResult<Category>> GetCategory(int id)
         {
           if (_context.categories == null)
@@ -52,7 +52,7 @@ namespace WebApplicationCatAPI.Controllers
 
         // PUT: api/Categories/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
+        [HttpPut("{id} Update existing Category by Id.")]
         public async Task<IActionResult> PutCategory(int id, Category category)
         {
             if (id != category.Id)
@@ -83,7 +83,7 @@ namespace WebApplicationCatAPI.Controllers
 
         // POST: api/Categories
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPost]
+        [HttpPost("Updates a Category with data.")]
         public async Task<ActionResult<Category>> PostCategory(Category category)
         {
           if (_context.categories == null)
@@ -97,7 +97,7 @@ namespace WebApplicationCatAPI.Controllers
         }
 
         // DELETE: api/Categories/5
-        [HttpDelete("{id}")]
+        [HttpDelete("{id} Delets a Category by Id")]
         public async Task<IActionResult> DeleteCategory(int id)
         {
             if (_context.categories == null)

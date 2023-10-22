@@ -22,7 +22,7 @@ namespace WebVWweek7.Controllers.NewFolder
         }
 
         // GET: api/CollectionsControllerAPI
-        [HttpGet]
+        [HttpGet("Finds Collection by status.")]
         public async Task<ActionResult<IEnumerable<Collection>>> Getcollections()
         {
           if (_context.collections == null)
@@ -33,7 +33,7 @@ namespace WebVWweek7.Controllers.NewFolder
         }
 
         // GET: api/CollectionsControllerAPI/5
-        [HttpGet("{id}")]
+        [HttpGet("{id} Finds Collection by Id.")]
         public async Task<ActionResult<Collection>> GetCollection(int id)
         {
           if (_context.collections == null)
@@ -52,7 +52,7 @@ namespace WebVWweek7.Controllers.NewFolder
 
         // PUT: api/CollectionsControllerAPI/5
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPut("{id}")]
+        [HttpPut("{id} Update existing Collection by Id.")]
         public async Task<IActionResult> PutCollection(int id, Collection collection)
         {
             if (id != collection.Id)
@@ -83,7 +83,7 @@ namespace WebVWweek7.Controllers.NewFolder
 
         // POST: api/CollectionsControllerAPI
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
-        [HttpPost]
+        [HttpPost("Updates a Collection with data.")]
         public async Task<ActionResult<Collection>> PostCollection(Collection collection)
         {
           if (_context.collections == null)
@@ -97,7 +97,7 @@ namespace WebVWweek7.Controllers.NewFolder
         }
 
         // DELETE: api/CollectionsControllerAPI/5
-        [HttpDelete("{id}")]
+        [HttpDelete("{id} Delets a Collection by Id.")]
         public async Task<IActionResult> DeleteCollection(int id)
         {
             if (_context.collections == null)
