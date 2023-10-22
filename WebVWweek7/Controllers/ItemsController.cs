@@ -22,6 +22,8 @@ namespace WebVWweek7.Controllers
         // GET: Items
         public async Task<IActionResult> Index(int? CollectionId)
         {
+            Counter();
+
             if (CollectionId != null)
             {
                 var AppDbContext = _context.items
@@ -179,6 +181,11 @@ namespace WebVWweek7.Controllers
         private bool ItemExists(int id)
         {
           return (_context.items?.Any(e => e.Id == id)).GetValueOrDefault();
+        }
+
+        public void Counter()
+        {
+            ViewBag.Count = _context.items.Count();
         }
     }
 }
